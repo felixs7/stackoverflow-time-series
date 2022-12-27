@@ -1,4 +1,4 @@
-# stackoverflow-time-series
+# Prophet Time Series Analysis - Stackoverflow Questions
 Sample Project using Facebooks Prophet library for Time Series Forecasting. 
 The dataset contains 11 years of data from various Stackoverflow topics.
 
