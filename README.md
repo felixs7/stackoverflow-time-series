@@ -16,4 +16,4 @@ It also does not put emphasis on the visualisation of time series and prediction
 Instead the focus is on a basic use case of the Prophet library, running a Seasonal Decomposition in the process and finally predicting the number of questions asked on a given month.
 
 
-![Project Screenshot](project_screenshot.jpg)
+![Project Screenshot](project_screenshot.png)
